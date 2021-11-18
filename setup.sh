@@ -1,6 +1,7 @@
 #! /bin/bash
 
 # install script for GitHub Codespaces
+# https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-codespaces-for-your-account#dotfiles
 echo updating apt
 sudo apt-get update
 
