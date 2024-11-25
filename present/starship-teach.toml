@@ -1,0 +1,13 @@
+# just used for simple training purposes
+# combine with disabling zsh features to make it easier to learn
+# without being distracted by fancy shell features
+
+format = "$directory$line_break$character"
+
+# [character]
+# success_symbol = "[🐳](bold green)"
+# error_symbol = "[🚫](bold red)"
+
+[directory]
+truncation_length = 3
+# truncation_symbol = ".../"
